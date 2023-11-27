@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+	background-image:url("https://i.pinimg.com/564x/2c/06/99/2c069935be6c97f325a72eebbe09eb30.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  	background-size: cover;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #4f71ab;
+    font-weight: 800;
+    padding: 0 20px;
+    font-family: 'Itim', cursive;
+    color:white;
+    height: 2em;
+    text-align:center;
+    border: solid #1A5276 5px;
+    border-radius:10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Itim' , cursive;
+    color:#061147;
+}
+
+
+.start {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.routeone {
+    font-family: 'Coiny', cursive;
+}
+
+
+.routetwo {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+    display:none;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+    display: none;
+}
+
+.cold {
+    height: 500px;
+    width: 350px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+    font-family:'Itim',cursive;
+}
+
+.routeonetext{
+	font-size:28px;
+}
+
+.return{
+	margin-top:2em;
+}
